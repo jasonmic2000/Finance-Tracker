@@ -1,5 +1,5 @@
 import { useAuthContext } from '../../hooks/useAuthContext'
-import { useCollection, useCOllection } from '../../hooks/useCollection'
+import { useCollection } from '../../hooks/useCollection'
 
 // components
 import TransactionForm from './TransactionForm'
